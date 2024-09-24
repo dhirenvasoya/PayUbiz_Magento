@@ -11,3 +11,5 @@ Please follow the below steps to download Magento plugin as per requirement:
 
 
 For any technical assistance please drop a mail to integration@payu.in.
+
+Looking for the Hyva Checkout Addon? You can find it here : https://magecomp.com/magento-2-payu-hyva-checkout-addon.html
